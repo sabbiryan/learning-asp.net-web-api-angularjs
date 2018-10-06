@@ -1,5 +1,13 @@
-#### Institute Domain based Basic CRUD Application using Angular and Web API
+### Institute CRUD App
 
+#### Technologies:
+<ul>
+    <li>Web Api 2</li>
+    <li>Angularjs 1.x</li>
+    <li>Entity Framewrok 5.x</li>
+    <li>Database First</li>
+    <li>Bootstrap</li>    
+</ul>
 
 Clone this repository first
 
